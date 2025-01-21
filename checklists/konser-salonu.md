@@ -1,7 +1,7 @@
 ---
 title: Konser Salonu Kontrol Listesi
 description: Konser salonlarının sahip olması gereken temel özellikler
-category: Kültür
+category: Etkinlik & Eğlence
 priority: Yüksek
 icon: fa-music
 ---

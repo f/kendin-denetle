@@ -1,7 +1,7 @@
 ---
 title: Hayvanat Bahçesi Kontrol Listesi
 description: Hayvanat bahçelerinin sahip olması gereken temel özellikler
-category: Eğlence
+category: Kamu Hizmetleri & Tesisler
 priority: Yüksek
 icon: fa-hippo
 ---

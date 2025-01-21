@@ -1,7 +1,7 @@
 ---
 title: Balık Hali Kontrol Listesi
 description: Balık hallerinin sahip olması gereken temel özellikler
-category: Gıda
+category: Sanayi & Üretim
 priority: Yüksek
 icon: fa-fish
 ---

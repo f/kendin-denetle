@@ -1,7 +1,7 @@
 ---
 title: Kamp Alanı Kontrol Listesi
 description: Kamp alanlarının sahip olması gereken temel özellikler
-category: Turizm
+category: Konaklama & Hizmetler
 priority: Yüksek
 icon: fa-campground
 ---

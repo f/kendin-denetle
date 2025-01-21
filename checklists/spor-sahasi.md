@@ -1,7 +1,7 @@
 ---
 title: Spor Sahası Kontrol Listesi
 description: Açık ve kapalı spor sahalarının sahip olması gereken özellikler
-category: Spor
+category: Spor & Rekreasyon
 priority: Yüksek
 icon: fa-futbol
 ---

@@ -1,7 +1,7 @@
 ---
 title: Kayak Merkezi Kontrol Listesi
 description: Kayak merkezlerinin sahip olması gereken temel özellikler
-category: Spor
+category: Spor & Rekreasyon
 priority: Yüksek
 icon: fa-person-skiing
 ---

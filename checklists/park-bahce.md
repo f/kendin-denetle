@@ -1,7 +1,7 @@
 ---
 title: Park ve Bahçe Kontrol Listesi
 description: Parkların ve yeşil alanların sahip olması gereken özellikler
-category: Rekreasyon
+category: Spor & Rekreasyon
 priority: Yüksek
 icon: fa-tree
 ---

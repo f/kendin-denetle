@@ -1,7 +1,7 @@
 ---
 title: Sera Kontrol Listesi
 description: Seraların sahip olması gereken temel özellikler
-category: Tarım
+category: Sanayi & Üretim
 priority: Yüksek
 icon: fa-seedling
 ---

@@ -1,7 +1,7 @@
 ---
 title: Stadyum Kontrol Listesi
 description: Stadyumların sahip olması gereken temel özellikler
-category: Spor
+category: Spor & Rekreasyon
 priority: Yüksek
 icon: fa-futbol
 ---

@@ -1,7 +1,7 @@
 ---
-title: Postane Kontrol Listesi
-description: PTT şubelerinin sahip olması gereken temel özellikler
-category: Kamu
+title: Kargo Şubesi Kontrol Listesi
+description: Kargo şubelerinin sahip olması gereken temel özellikler
+category: Alışveriş & Ticaret
 priority: Yüksek
 icon: fa-envelope
 ---

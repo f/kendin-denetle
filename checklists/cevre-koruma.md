@@ -1,7 +1,7 @@
 ---
 title: Çevre Koruma Kontrol Listesi
 description: Çevrenin korunması için dikkat edilmesi gereken konular
-category: Çevre
+category: Kamu Hizmetleri & Tesisler
 priority: Yüksek
 icon: fa-tree
 ---

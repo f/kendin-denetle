@@ -1,7 +1,7 @@
 ---
 title: Kültür Merkezi Kontrol Listesi
 description: Kültür merkezlerinin sahip olması gereken özellikler
-category: Kültür
+category: Eğitim & Kültür
 priority: Yüksek
 icon: fa-masks-theater
 ---

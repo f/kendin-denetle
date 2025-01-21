@@ -1,7 +1,7 @@
 ---
 title: İbadet Yeri Kontrol Listesi
 description: İbadet yerlerinin sahip olması gereken temel özellikler
-category: İbadet
+category: Kamu Hizmetleri & Tesisler
 priority: Yüksek
 icon: fa-place-of-worship
 ---

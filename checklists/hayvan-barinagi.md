@@ -1,7 +1,7 @@
 ---
 title: Hayvan Barınağı Kontrol Listesi
 description: Hayvan barınaklarının sahip olması gereken temel özellikler
-category: Hayvan
+category: Kamu Hizmetleri & Tesisler
 priority: Yüksek
 icon: fa-paw
 ---

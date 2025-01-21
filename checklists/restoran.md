@@ -1,7 +1,7 @@
 ---
 title: Restoran Kontrol Listesi
 description: Restoranların sahip olması gereken temel özellikler
-category: Gıda
+category: Konaklama & Hizmetler
 priority: Yüksek
 icon: fa-utensils
 ---

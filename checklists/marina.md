@@ -1,7 +1,7 @@
 ---
 title: Marina Kontrol Listesi
 description: Marinaların sahip olması gereken temel özellikler
-category: Denizcilik
+category: Konaklama & Hizmetler
 priority: Yüksek
 icon: fa-anchor
 ---

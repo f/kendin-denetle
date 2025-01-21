@@ -1,7 +1,7 @@
 ---
 title: Öğrenci Yurdu Kontrol Listesi
 description: Öğrenci yurtlarının sahip olması gereken temel özellikler
-category: Barınma
+category: Eğitim & Kültür
 priority: Yüksek
 icon: fa-building-user
 ---

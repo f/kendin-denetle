@@ -1,7 +1,7 @@
 ---
 title: Banka Şubesi Kontrol Listesi
 description: Banka şubelerinin sahip olması gereken güvenlik ve hizmet özellikleri
-category: Finans
+category: Alışveriş & Ticaret
 priority: Yüksek
 icon: fa-building-columns
 ---

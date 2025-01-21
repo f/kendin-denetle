@@ -1,7 +1,7 @@
 ---
 title: Hastane ve Sağlık Kurumları Kontrol Listesi
 description: Hastanelerin ve sağlık kurumlarının sahip olması gereken özellikler
-category: Sağlık
+category: Sağlık & Güvenlik
 priority: Yüksek
 icon: fa-hospital
 ---

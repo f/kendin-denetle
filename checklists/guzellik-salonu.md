@@ -1,7 +1,7 @@
 ---
 title: Güzellik Salonu Kontrol Listesi
 description: Güzellik salonlarının sahip olması gereken temel özellikler
-category: Hizmet
+category: Konaklama & Hizmetler
 priority: Yüksek
 icon: fa-scissors
 ---

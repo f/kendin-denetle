@@ -1,7 +1,7 @@
 ---
 title: Yüzme Havuzu Kontrol Listesi
 description: Yüzme havuzlarının sahip olması gereken temel özellikler
-category: Spor
+category: Spor & Rekreasyon
 priority: Yüksek
 icon: fa-person-swimming
 ---

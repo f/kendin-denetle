@@ -1,7 +1,7 @@
 ---
 title: Konferans Salonu Kontrol Listesi
 description: Konferans salonlarının sahip olması gereken temel özellikler
-category: Eğitim
+category: Etkinlik & Eğlence
 priority: Yüksek
 icon: fa-person-chalkboard
 ---

@@ -1,7 +1,7 @@
 ---
 title: Düğün Salonu Kontrol Listesi
 description: Düğün ve organizasyon salonlarının sahip olması gereken özellikler
-category: Organizasyon
+category: Etkinlik & Eğlence
 priority: Yüksek
 icon: fa-champagne-glasses
 ---

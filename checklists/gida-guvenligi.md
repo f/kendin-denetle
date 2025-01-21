@@ -1,7 +1,7 @@
 ---
 title: Gıda İşletmeleri Kontrol Listesi
 description: Restoran, market ve gıda üretim yerlerinin sahip olması gereken özellikler
-category: Gıda
+category: Kamu Hizmetleri & Tesisler
 priority: Yüksek
 icon: fa-utensils
 ---

@@ -1,9 +1,9 @@
 ---
 title: Lunapark Kontrol Listesi
 description: Lunaparkların sahip olması gereken temel özellikler
-category: Eğlence
+category: Spor & Rekreasyon
 priority: Yüksek
-icon: fa-ferris-wheel
+icon: fa-dharmachakra
 ---
 
 ## Oyuncak Güvenliği

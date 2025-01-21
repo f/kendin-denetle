@@ -1,7 +1,7 @@
 ---
 title: İnşaat Alanı Kontrol Listesi
 description: İnşaat alanlarının sahip olması gereken güvenlik özellikleri
-category: İnşaat
+category: Sanayi & Üretim
 priority: Yüksek
 icon: fa-hard-hat
 ---

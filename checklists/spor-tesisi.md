@@ -1,7 +1,7 @@
 ---
 title: Spor Tesisi Kontrol Listesi
 description: Spor tesislerinin sahip olması gereken güvenlik ve sağlık özellikleri
-category: Spor
+category: Spor & Rekreasyon
 priority: Yüksek
 icon: fa-dumbbell
 ---

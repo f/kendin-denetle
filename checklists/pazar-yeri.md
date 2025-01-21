@@ -1,7 +1,7 @@
 ---
 title: Pazar Yeri Kontrol Listesi
 description: Pazar yerlerinin sahip olması gereken temel özellikler
-category: Ticaret
+category: Alışveriş & Ticaret
 priority: Yüksek
 icon: fa-basket-shopping
 ---

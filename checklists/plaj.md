@@ -1,7 +1,7 @@
 ---
 title: Plaj Kontrol Listesi
 description: Plajların sahip olması gereken güvenlik ve temizlik özellikleri
-category: Rekreasyon
+category: Spor & Rekreasyon
 priority: Yüksek
 icon: fa-umbrella-beach
 ---

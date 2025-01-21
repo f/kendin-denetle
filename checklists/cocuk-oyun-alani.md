@@ -1,7 +1,7 @@
 ---
 title: Çocuk Oyun Alanı Kontrol Listesi
 description: Çocuk oyun alanlarının sahip olması gereken güvenlik özellikleri
-category: Rekreasyon
+category: Spor & Rekreasyon
 priority: Yüksek
 icon: fa-child-reaching
 ---

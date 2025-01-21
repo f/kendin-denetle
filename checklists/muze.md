@@ -1,7 +1,7 @@
 ---
 title: Müze Kontrol Listesi
 description: Müzelerin sahip olması gereken güvenlik ve sergi özellikleri
-category: Kültür
+category: Eğitim & Kültür
 priority: Yüksek
 icon: fa-landmark
 ---

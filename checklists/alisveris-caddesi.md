@@ -1,7 +1,7 @@
 ---
 title: Alışveriş Caddesi Kontrol Listesi
 description: Alışveriş caddelerinin sahip olması gereken temel özellikler
-category: Ticaret
+category: Alışveriş & Ticaret
 priority: Yüksek
 icon: fa-shop
 ---
