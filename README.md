@@ -1,6 +1,6 @@
 # Kendin Denetle
 
-Hayatınızdaki her şey için kontrol listelerini yönetmenize yardımcı olan, mobil öncelikli bir Progressive Web App (PWA). Kontrol listeleri `checklists` klasöründeki markdown dosyaları aracılığıyla oluşturulur.
+Hayatınızdaki her şey için kontrol listelerini yönetmenize yardımcı olan, mobil öncelikli bir uygulama. Kontrol listeleri `checklists` klasörünündeki markdown dosyaları aracılığıyla oluşturulur.
 
 ## Özellikler
 
@@ -8,13 +8,13 @@ Hayatınızdaki her şey için kontrol listelerini yönetmenize yardımcı olan,
 - 📋 Etkileşimli kontrol listeleri
 - 🔍 Kategorize edilmiş listeler
 - 📝 Markdown tabanlı içerik
-- 🌐 Çevrimdışı erişim için PWA desteği
+- 📱 Erişilebilir arayüz
 
 ## Başlangıç
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/f/kendin-denetle.git
+git clone https://github.com/fka/kendin-denetle.git
 cd kendin-denetle
 ```
 
@@ -39,6 +39,7 @@ npm run dev
 title: Kontrol Listesi Başlığı
 description: Kontrol listesinin kısa açıklaması
 category: Kategori Adı
+icon: fa-icon-class
 ---
 ```
 3. Markdown kullanarak kontrol listesi öğelerini ekleyin:
@@ -48,8 +49,12 @@ category: Kategori Adı
 [] Kontrol edilecek ilk madde
 [] Kontrol edilecek ikinci madde
 [] Kontrol edilecek üçüncü madde
+[] ÖNEMLİ Kontrol edilecek madde
 ```
 
 ## Katkıda Bulunma
 
 Katkılarınızı bekliyoruz! Pull Request göndermekten çekinmeyin. 
+
+## Lisans
+Bu proje [CC0](https://creativecommons.org/publicdomain/zero/1.0/) lisansı ile lisanslanmıştır. Bu lisans ile herkes bu projeyi hiçbir izin olmadan kopyalayabilir, kullanabilir, çoğaltabilir ve değiştirebilir.
