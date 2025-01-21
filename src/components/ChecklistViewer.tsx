@@ -7,6 +7,8 @@ import clsx from 'clsx'
 
 interface Props {
   content: string
+  title: string
+  description: string
 }
 
 interface CheckItem {
@@ -51,7 +53,27 @@ const parseContent = (content: string): Section[] => {
   return sections
 }
 
-export function ChecklistViewer({ content }: Props) {
+const getCompletionStatus = (items: CheckItem[]) => {
+  const total = items.length
+  const completed = items.filter(item => item.checked).length
+  const percentage = total > 0 ? (completed / total) * 100 : 0
+
+  return {
+    completed,
+    total,
+    percentage,
+    color: percentage >= 75 ? 'text-green-600 bg-green-50' 
+      : percentage >= 30 ? 'text-yellow-600 bg-yellow-50'
+      : 'text-red-600 bg-red-50'
+  }
+}
+
+const getTotalCompletionStatus = (sections: Section[]) => {
+  const allItems = sections.flatMap(section => section.items)
+  return getCompletionStatus(allItems)
+}
+
+export function ChecklistViewer({ content, title, description }: Props) {
   const [mounted, setMounted] = useState(false)
   const [sections, setSections] = useState<Section[]>(() => parseContent(content))
 
@@ -84,31 +106,89 @@ export function ChecklistViewer({ content }: Props) {
     })
   }
 
+  const handleKeyDown = (e: React.KeyboardEvent<HTMLButtonElement>, sectionIndex: number, itemIndex: number) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault()
+      handleToggle(sectionIndex, itemIndex)
+    }
+  }
+
   return (
-    <div className="space-y-8">
+    <div className="space-y-8" role="main">
+      <div className="space-y-2">
+        <div className="flex items-center justify-between">
+          <h1 className="text-3xl font-bold">{title}</h1>
+          <div 
+            className={clsx(
+              'inline-flex items-center px-6 py-3 rounded-full text-xl font-semibold',
+              getTotalCompletionStatus(sections).color
+            )}
+            role="status"
+            aria-label={`Toplam ${getTotalCompletionStatus(sections).completed} / ${getTotalCompletionStatus(sections).total} madde tamamlandı (${Math.round(getTotalCompletionStatus(sections).percentage)}%)`}
+          >
+            %{Math.round(getTotalCompletionStatus(sections).percentage)}
+          </div>
+        </div>
+        {description && (
+          <p className="text-secondary">{description}</p>
+        )}
+      </div>
       {sections.map((section, sectionIndex) => (
-        <section key={section.title} className="space-y-4">
-          <h2 className="text-2xl font-semibold">{section.title}</h2>
-          <div className="space-y-2">
+        <section 
+          key={section.title} 
+          className="space-y-4"
+          aria-labelledby={`section-${sectionIndex}`}
+        >
+          <div className="flex items-center gap-4">
+            <h2 id={`section-${sectionIndex}`} className="text-2xl font-semibold">
+              {section.title}
+            </h2>
+            {section.items.length > 0 && (
+              <div 
+                className={clsx(
+                  'inline-flex items-center px-4 py-2 rounded-full text-base font-medium',
+                  getCompletionStatus(section.items).color
+                )}
+                role="status"
+                aria-label={`${getCompletionStatus(section.items).completed} of ${getCompletionStatus(section.items).total} items completed`}
+              >
+                {getCompletionStatus(section.items).completed}/{getCompletionStatus(section.items).total}
+              </div>
+            )}
+          </div>
+          <div 
+            className="space-y-2"
+            role="list"
+            aria-label={`${section.title} kontrol listesi`}
+          >
             {section.items.map((item, itemIndex) => (
               <button
                 key={item.text}
                 onClick={() => handleToggle(sectionIndex, itemIndex)}
+                onKeyDown={(e) => handleKeyDown(e, sectionIndex, itemIndex)}
                 className={clsx(
                   'w-full flex items-start gap-3 p-3 border rounded-lg transition-colors',
-                  'hover:border-primary/20',
+                  'hover:border-primary/20 focus:outline-none focus:ring-2 focus:ring-primary/20',
                   mounted && item.checked && 'bg-green-50 border-green-200'
                 )}
+                role="listitem"
+                aria-checked={item.checked}
+                aria-label={`${item.text}${item.checked ? ' (tamamlandı)' : ' (tamamlanmadı)'}`}
+                tabIndex={0}
               >
-                <div
+                <span 
                   className={clsx(
-                    'w-5 h-5 rounded-md border-2 flex items-center justify-center flex-shrink-0',
-                    mounted && item.checked ? 'border-green-500 bg-green-500' : 'border-gray-300'
+                    'flex-shrink-0 w-5 h-5 border rounded-md flex items-center justify-center',
+                    item.checked ? 'bg-green-500 border-green-500' : 'border-gray-300'
                   )}
+                  aria-hidden="true"
                 >
-                  {mounted && item.checked && <CheckIcon className="w-4 h-4 text-white" />}
-                </div>
-                <span className={clsx('text-left', mounted && item.checked && 'text-green-700')}>
+                  {item.checked && <CheckIcon className="w-4 h-4 text-white" />}
+                </span>
+                <span className={clsx(
+                  'flex-grow text-left',
+                  item.checked && 'text-gray-500'
+                )}>
                   {item.text}
                 </span>
               </button>
@@ -118,4 +198,4 @@ export function ChecklistViewer({ content }: Props) {
       ))}
     </div>
   )
-} 
+}

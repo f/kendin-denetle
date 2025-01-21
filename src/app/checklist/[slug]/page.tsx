@@ -22,13 +22,13 @@ export default function ChecklistPage({ params }: Props) {
           <ArrowLeftIcon className="w-4 h-4" />
           <span>Geri Dön</span>
         </Link>
-        <div>
-          <h1 className="text-3xl font-bold">{checklist.title}</h1>
-          <p className="text-secondary mt-2">{checklist.description}</p>
-        </div>
       </header>
 
-      <ChecklistViewer content={checklist.content} />
+      <ChecklistViewer 
+        content={checklist.content} 
+        title={checklist.title} 
+        description={checklist.description}
+      />
     </div>
   )
 } 
