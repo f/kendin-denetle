@@ -35,9 +35,9 @@ export default function RootLayout({
         </main>
         <footer className="text-center py-8 text-sm text-secondary">
           <p>
-            <a href="https://github.com/f/kendindenetle" className="hover:text-primary transition-colors" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/f/kendin-denetle" className="hover:text-primary transition-colors" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-github mr-1"></i>
-              github.com/f/kendindenetle
+              github.com/f/kendin-denetle
             </a>
           </p>
           <p className="mt-1">
