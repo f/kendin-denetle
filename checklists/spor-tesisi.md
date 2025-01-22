@@ -13,6 +13,8 @@ icon: fa-dumbbell
 - [ ] Yangın söndürücüler HAZIR
 - [ ] Güvenlik kameraları ÇALIŞIYOR
 - [ ] Zemin kaplaması GÜVENLİ ve SAĞLAM
+- [ ] Elektrik tesisatı DÜZENLİ KONTROL EDİLİYOR
+- [ ] Acil durum planı GÜNCEL
 
 ## Sağlık ve Hijyen
 
@@ -21,6 +23,9 @@ icon: fa-dumbbell
 - [ ] Havalandırma sistemi ÇALIŞIYOR
 - [ ] Spor aletleri HER KULLANIM SONRASI temizleniyor
 - [ ] Su sebilleri TEMİZ ve BAKIMLI
+- [ ] Dezenfektan istasyonları MEVCUT ve DOLU
+- [ ] Çöp kutuları DÜZENLİ BOŞALTILIYOR
+- [ ] Havuz alanı KAYMAZ ZEMİN ile kaplı
 
 ## Spor Ekipmanları
 
@@ -29,6 +34,8 @@ icon: fa-dumbbell
 - [ ] Koşu bantları ÇALIŞIYOR
 - [ ] Pilates/yoga malzemeleri TEMİZ
 - [ ] Acil durdurma butonları ÇALIŞIYOR
+- [ ] Kullanım talimatları NET ve GÖRÜNÜR
+- [ ] Ekipman yük sınırları BELİRTİLMİŞ
 
 ## Personel ve Hizmetler
 
