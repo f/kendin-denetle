@@ -28,7 +28,7 @@ const parseContent = (content: string): Section[] => {
 
   lines.forEach((line) => {
     const sectionMatch = line.match(/^## (.+)/)
-    const itemMatch = line.match(/\[\] (.+)/)
+    const itemMatch = line.match(/- \[\s\] (.+)/)
 
     if (sectionMatch) {
       if (currentSection) {

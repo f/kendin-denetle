@@ -46,10 +46,10 @@ icon: fa-icon-class
 ```markdown
 ## Bölüm Başlığı
 
-[] Kontrol edilecek ilk madde
-[] Kontrol edilecek ikinci madde
-[] Kontrol edilecek üçüncü madde
-[] ÖNEMLİ Kontrol edilecek madde
+- [ ] Kontrol edilecek ilk madde
+- [ ] Kontrol edilecek ikinci madde
+- [ ] Kontrol edilecek üçüncü madde
+- [ ] ÖNEMLİ Kontrol edilecek madde
 ```
 
 ## Katkıda Bulunma

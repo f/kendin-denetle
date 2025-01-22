@@ -8,32 +8,32 @@ icon: fa-child
 
 ## Temel Güvenlik
 
-[] Bina güvenlik raporu MEVCUT
-[] Yangın çıkışları AÇIK ve İŞARETLİ
-[] Pencereler ÇOCUK KİLİTLİ
-[] Prizler KAPAKLI
-[] Mobilyalar SAĞLAM ve GÜVENLİ
+- [ ] Bina güvenlik raporu MEVCUT
+- [ ] Yangın çıkışları AÇIK ve İŞARETLİ
+- [ ] Pencereler ÇOCUK KİLİTLİ
+- [ ] Prizler KAPAKLI
+- [ ] Mobilyalar SAĞLAM ve GÜVENLİ
 
 ## Sağlık ve Hijyen
 
-[] İlk yardım dolabı TAM
-[] Sağlık personeli MEVCUT
-[] Oyuncaklar DÜZENLİ temizleniyor
-[] Yemek alanı HİJYENİK
-[] Tuvaletler ÇOCUKLARA UYGUN
+- [ ] İlk yardım dolabı TAM
+- [ ] Sağlık personeli MEVCUT
+- [ ] Oyuncaklar DÜZENLİ temizleniyor
+- [ ] Yemek alanı HİJYENİK
+- [ ] Tuvaletler ÇOCUKLARA UYGUN
 
 ## Eğitim Ortamı
 
-[] Oyun alanı GÜVENLİ
-[] Eğitim malzemeleri YETERLİ
-[] Uyku odası UYGUN
-[] Bahçe GÜVENLİ ve TEMİZ
-[] Oyuncaklar YAŞ GRUBUNA uygun
+- [ ] Oyun alanı GÜVENLİ
+- [ ] Eğitim malzemeleri YETERLİ
+- [ ] Uyku odası UYGUN
+- [ ] Bahçe GÜVENLİ ve TEMİZ
+- [ ] Oyuncaklar YAŞ GRUBUNA uygun
 
 ## Personel ve Yönetim
 
-[] Öğretmenler SERTİFİKALI
-[] Öğretmen-çocuk ORANI uygun
-[] Kamera sistemi ÇALIŞIYOR
-[] Veli iletişim sistemi AKTİF
-[] Acil durum planı MEVCUT
+- [ ] Öğretmenler SERTİFİKALI
+- [ ] Öğretmen-çocuk ORANI uygun
+- [ ] Kamera sistemi ÇALIŞIYOR
+- [ ] Veli iletişim sistemi AKTİF
+- [ ] Acil durum planı MEVCUT

@@ -8,32 +8,32 @@ icon: fa-anchor
 
 ## Deniz Güvenliği
 
-[] Can kurtarma ekipmanı HAZIR
-[] İskele aydınlatması ÇALIŞIYOR
-[] Dalga kıran SAĞLAM
-[] Derinlik ölçümleri GÜNCEL
-[] Acil müdahale botu HAZIR
+- [ ] Can kurtarma ekipmanı HAZIR
+- [ ] İskele aydınlatması ÇALIŞIYOR
+- [ ] Dalga kıran SAĞLAM
+- [ ] Derinlik ölçümleri GÜNCEL
+- [ ] Acil müdahale botu HAZIR
 
 ## Teknik Altyapı
 
-[] Elektrik sistemleri ÇALIŞIYOR
-[] Su tesisatı AKTİF
-[] Yakıt istasyonu GÜVENLİ
-[] Atık su sistemi DÜZENLİ
-[] Wi-Fi hizmeti MEVCUT
+- [ ] Elektrik sistemleri ÇALIŞIYOR
+- [ ] Su tesisatı AKTİF
+- [ ] Yakıt istasyonu GÜVENLİ
+- [ ] Atık su sistemi DÜZENLİ
+- [ ] Wi-Fi hizmeti MEVCUT
 
 ## Çevre Koruma
 
-[] Yağ/yakıt sızıntısı YOK
-[] Atık toplama DÜZGÜN
-[] Sintine atık sistemi ÇALIŞIYOR
-[] Geri dönüşüm ÜNİTELERİ var
-[] Deniz temizliği YAPILIYOR
+- [ ] Yağ/yakıt sızıntısı YOK
+- [ ] Atık toplama DÜZGÜN
+- [ ] Sintine atık sistemi ÇALIŞIYOR
+- [ ] Geri dönüşüm ÜNİTELERİ var
+- [ ] Deniz temizliği YAPILIYOR
 
 ## Genel Hizmetler
 
-[] Güvenlik personeli MEVCUT
-[] Duş/WC üniteleri TEMİZ
-[] Market/restoran AÇIK
-[] Otopark GÜVENLİ
-[] Meteoroloji bilgisi GÜNCEL
+- [ ] Güvenlik personeli MEVCUT
+- [ ] Duş/WC üniteleri TEMİZ
+- [ ] Market/restoran AÇIK
+- [ ] Otopark GÜVENLİ
+- [ ] Meteoroloji bilgisi GÜNCEL

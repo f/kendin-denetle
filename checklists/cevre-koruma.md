@@ -8,32 +8,32 @@ icon: fa-tree
 
 ## Su Kaynakları
 
-[] İçme suyu KALİTESİ düzenli TEST EDİLİYOR
-[] Atık sular ARITILIYOR
-[] Dere ve göller KİRLETİLMİYOR
-[] Su kaynakları KORUNUYOR
-[] Yağmur suyu kanalları TEMİZ
+- [ ] İçme suyu KALİTESİ düzenli TEST EDİLİYOR
+- [ ] Atık sular ARITILIYOR
+- [ ] Dere ve göller KİRLETİLMİYOR
+- [ ] Su kaynakları KORUNUYOR
+- [ ] Yağmur suyu kanalları TEMİZ
 
 ## Hava Kalitesi
 
-[] Fabrika bacaları FİLTRELİ
-[] Hava kalitesi ÖLÇÜLÜYOR
-[] Egzoz emisyon DENETİMİ yapılıyor
-[] Toz ve duman KONTROL EDİLİYOR
-[] Yeşil alanlar KORUNUYOR
+- [ ] Fabrika bacaları FİLTRELİ
+- [ ] Hava kalitesi ÖLÇÜLÜYOR
+- [ ] Egzoz emisyon DENETİMİ yapılıyor
+- [ ] Toz ve duman KONTROL EDİLİYOR
+- [ ] Yeşil alanlar KORUNUYOR
 
 ## Atık Yönetimi
 
-[] Çöpler DÜZENLİ toplanıyor
-[] Geri dönüşüm YAPILIYOR
-[] Tehlikeli atıklar AYRI toplanıyor
-[] Çöp konteynerleri YETERLİ
-[] Sokaklar TEMİZ tutuluyor
+- [ ] Çöpler DÜZENLİ toplanıyor
+- [ ] Geri dönüşüm YAPILIYOR
+- [ ] Tehlikeli atıklar AYRI toplanıyor
+- [ ] Çöp konteynerleri YETERLİ
+- [ ] Sokaklar TEMİZ tutuluyor
 
 ## Doğal Yaşam
 
-[] Ağaçlar KORUNUYOR
-[] Yeşil alanlar ARTTIRILIYOR
-[] Hayvan hakları KORUNUYOR
-[] Gürültü kirliliği KONTROL EDİLİYOR
-[] Doğal yaşam alanları KORUNUYOR
+- [ ] Ağaçlar KORUNUYOR
+- [ ] Yeşil alanlar ARTTIRILIYOR
+- [ ] Hayvan hakları KORUNUYOR
+- [ ] Gürültü kirliliği KONTROL EDİLİYOR
+- [ ] Doğal yaşam alanları KORUNUYOR

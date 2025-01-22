@@ -8,32 +8,32 @@ icon: fa-place-of-worship
 
 ## Yapı Güvenliği
 
-[] Bina sağlamlık raporu MEVCUT
-[] Deprem güçlendirmesi YAPILMIŞ
-[] Yangın çıkışları AÇIK
-[] Elektrik tesisatı GÜVENLİ
-[] Acil aydınlatma ÇALIŞIYOR
+- [ ] Bina sağlamlık raporu MEVCUT
+- [ ] Deprem güçlendirmesi YAPILMIŞ
+- [ ] Yangın çıkışları AÇIK
+- [ ] Elektrik tesisatı GÜVENLİ
+- [ ] Acil aydınlatma ÇALIŞIYOR
 
 ## Temizlik ve Bakım
 
-[] İbadet alanı TEMİZ ve BAKIMLI
-[] Abdest alma yerleri TEMİZ
-[] Tuvaletler TEMİZ ve BAKIMLI
-[] Halılar DÜZENLİ temizleniyor
-[] Havalandırma ÇALIŞIYOR
+- [ ] İbadet alanı TEMİZ ve BAKIMLI
+- [ ] Abdest alma yerleri TEMİZ
+- [ ] Tuvaletler TEMİZ ve BAKIMLI
+- [ ] Halılar DÜZENLİ temizleniyor
+- [ ] Havalandırma ÇALIŞIYOR
 
 ## Erişilebilirlik
 
-[] Engelli rampası MEVCUT
-[] Asansör veya platform ÇALIŞIYOR
-[] Engelli tuvaleti VAR
-[] Yaşlılar için oturma yerleri YETERLİ
-[] Park alanı UYGUN
+- [ ] Engelli rampası MEVCUT
+- [ ] Asansör veya platform ÇALIŞIYOR
+- [ ] Engelli tuvaleti VAR
+- [ ] Yaşlılar için oturma yerleri YETERLİ
+- [ ] Park alanı UYGUN
 
 ## Genel Hizmetler
 
-[] Ayakkabılık DÜZENLİ
-[] Kitaplık BAKIMLI
-[] Su sebili TEMİZ
-[] Isıtma sistemi ÇALIŞIYOR
-[] Güvenlik kameraları AKTİF
+- [ ] Ayakkabılık DÜZENLİ
+- [ ] Kitaplık BAKIMLI
+- [ ] Su sebili TEMİZ
+- [ ] Isıtma sistemi ÇALIŞIYOR
+- [ ] Güvenlik kameraları AKTİF

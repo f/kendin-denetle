@@ -8,32 +8,32 @@ icon: fa-dharmachakra
 
 ## Oyuncak Güvenliği
 
-[] Tüm cihazlar BAKIMLI
-[] Emniyet kemerleri SAĞLAM
-[] Acil durdurma butonları ÇALIŞIYOR
-[] Kapasite sınırları BELİRTİLMİŞ
-[] Güvenlik bariyerleri SABİT
+- [ ] Tüm cihazlar BAKIMLI
+- [ ] Emniyet kemerleri SAĞLAM
+- [ ] Acil durdurma butonları ÇALIŞIYOR
+- [ ] Kapasite sınırları BELİRTİLMİŞ
+- [ ] Güvenlik bariyerleri SABİT
 
 ## Personel
 
-[] Operatörler EĞİTİMLİ
-[] Güvenlik görevlileri MEVCUT
-[] İlk yardım personeli HAZIR
-[] Temizlik ekibi AKTİF
-[] Bilet görevlileri GÖREVDE
+- [ ] Operatörler EĞİTİMLİ
+- [ ] Güvenlik görevlileri MEVCUT
+- [ ] İlk yardım personeli HAZIR
+- [ ] Temizlik ekibi AKTİF
+- [ ] Bilet görevlileri GÖREVDE
 
 ## Genel Güvenlik
 
-[] Yangın söndürücüler HAZIR
-[] Acil çıkışlar AÇIK
-[] Aydınlatma YETERLİ
-[] İlk yardım istasyonu MEVCUT
-[] Güvenlik kameraları ÇALIŞIYOR
+- [ ] Yangın söndürücüler HAZIR
+- [ ] Acil çıkışlar AÇIK
+- [ ] Aydınlatma YETERLİ
+- [ ] İlk yardım istasyonu MEVCUT
+- [ ] Güvenlik kameraları ÇALIŞIYOR
 
 ## Hizmet Alanları
 
-[] Tuvaletler TEMİZ
-[] Yiyecek standları HİJYENİK
-[] Oturma alanları BAKIMLI
-[] Çöp kutuları DÜZENLİ
-[] Bekleme alanları GÜVENLİ
+- [ ] Tuvaletler TEMİZ
+- [ ] Yiyecek standları HİJYENİK
+- [ ] Oturma alanları BAKIMLI
+- [ ] Çöp kutuları DÜZENLİ
+- [ ] Bekleme alanları GÜVENLİ
