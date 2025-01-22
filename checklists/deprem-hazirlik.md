@@ -18,6 +18,7 @@ icon: fa-house-crack
 
 - [ ] Kolonlarda hasar kontrolü yapılmış
 - [ ] Temel sağlamlığı kontrol edilmiş
+- [ ] Zemin etüdü yapılmış
 - [ ] Çatlak ve hasar tespiti yapılmış
 - [ ] Bina yaşı ve ruhsatı kontrol edilmiş
 
@@ -27,6 +28,8 @@ icon: fa-house-crack
 - [ ] Uzun ömürlü gıdalar
 - [ ] İlk yardım malzemeleri
 - [ ] El feneri ve yedek pil
+- [ ] Radyo
+- [ ] Powerbank ve şarj kabloları
 - [ ] Önemli evrak kopyaları
 
 ## İletişim Planı
